@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T09:39:16.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="JNBlM_fSvnEojy47mbo7" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T11:17:45.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="D1HVYWBwSP3hrDi9-fFL" version="15.7.4" type="github" pages="2">
   <diagram id="vxKQzuRUcXA7S7RX8rwt" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,8 +133,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C6zX-skSFjIFgcsmUiJJ-30" value="Удалить" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="420" width="60" height="20" as="geometry" />
+          <mxGeometry x="530" y="420" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-1" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-2" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-3" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-4" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-5" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-6" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-7" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-8" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mtSYPBkT1n44LcQ1_Bp-9" value="Активизировать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DtucQetvUPYiBXx01rBp" name="Page-2">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ccE-5iq1YqbsEBkEFUFA-0" />
+        <mxCell id="ccE-5iq1YqbsEBkEFUFA-1" parent="ccE-5iq1YqbsEBkEFUFA-0" />
       </root>
     </mxGraphModel>
   </diagram>
