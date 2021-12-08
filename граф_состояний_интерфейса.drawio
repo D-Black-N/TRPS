@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T18:14:44.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="8KFTPzloNAQJD8EJb3nd" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T19:01:07.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="xgSn6OBjkjdrLIK6zABb" version="15.9.1" type="github">
   <diagram id="VJ9GATJbijIyp5R_hoXl" name="Page-1">
     <mxGraphModel dx="1695" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,9 +118,6 @@
         </mxCell>
         <mxCell id="PJjNKmJkIdjC3KmI0dV1-32" value="С11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="310" y="160" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="pWacU-w1Mz3AXdDgpnda-1" value="C1 - вход из главного меню&lt;br&gt;C2 - выход в главное меню&lt;br&gt;C3 - вход в создание расписания класса&lt;br&gt;C4 - выбор дня недели&lt;br&gt;C5 - выбор предмета из списка&lt;br&gt;C6 - выбор преподавателя из списка&lt;br&gt;C7 - выбор времени начала и окончания урока&lt;br&gt;C8 - возврат в меню расписания&lt;br&gt;C9 - создание расписания нового класса&lt;br&gt;C10 - отмена создания расписания класса&amp;nbsp;&lt;br&gt;C11 - вход в редактирование расписания класса&lt;br&gt;C12 - выбор дня недели&lt;br&gt;C13 - редактирование (выбор) предмета из списка&lt;br&gt;C14 - редактирование (выбор) преподавателя из списка&lt;br&gt;C15 - редактирование времени начала и окончания урока&lt;br&gt;C16 - возврат в меню расписания&lt;br&gt;C17 - изменение данных о расписании&lt;br&gt;C18 - удаление расписания класса&lt;br&gt;C19 - отмена внесения изменений в расписание класса&lt;br&gt;C20 - отмена удаления расписания класса&lt;br&gt;C21 - удаление информации о расписании всех классов&lt;br&gt;C22 - отмена удаления информации о расписании всех классов&lt;br&gt;C23 - подтверждение удаления информации о расписании всех классов" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="740" y="15" width="490" height="400" as="geometry" />
         </mxCell>
         <mxCell id="pWacU-w1Mz3AXdDgpnda-2" value="" style="endArrow=open;html=1;rounded=0;endSize=7;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.575;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
