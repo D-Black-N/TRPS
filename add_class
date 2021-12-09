@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T19:02:09.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bFgObx94uhbpJxfRRmWk" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T19:04:40.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="beKrIrGz5MFJPdkiNIZv" version="15.9.1" type="github">
   <diagram id="PrIzbW4P1ph-UckZ-Bcm" name="Page-1">
     <mxGraphModel dx="1335" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,16 +25,16 @@
         <mxCell id="nZMrWlUduTceXI8afhGP-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="280" as="sourcePoint" />
-            <mxPoint x="210" y="-110" as="targetPoint" />
+            <mxPoint x="90" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nZMrWlUduTceXI8afhGP-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Нумерация уроков&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-140" width="160" height="20" as="geometry" />
+          <mxGeometry x="100" y="-170" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nZMrWlUduTceXI8afhGP-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210.00000000000023" y="-110" as="sourcePoint" />
-            <mxPoint x="380" y="-110" as="targetPoint" />
+            <mxPoint x="90.00000000000023" y="-140" as="sourcePoint" />
+            <mxPoint x="260" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nZMrWlUduTceXI8afhGP-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
@@ -125,6 +125,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="60" as="sourcePoint" />
             <mxPoint x="1190" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZMrWlUduTceXI8afhGP-34" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;Отображение дня недели&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-131.54" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZMrWlUduTceXI8afhGP-35" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150.00000000000023" y="-101.53999999999976" as="sourcePoint" />
+            <mxPoint x="380" y="-102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZMrWlUduTceXI8afhGP-36" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="210" as="sourcePoint" />
+            <mxPoint x="150" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
