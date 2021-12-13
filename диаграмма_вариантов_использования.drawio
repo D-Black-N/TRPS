@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T14:37:18.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="j9KZqctjKQ_O1Rms3Dtk" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T16:54:12.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="oXAOkFim7-DI_wkI_xd7" version="15.9.4" type="github">
   <diagram id="U9YUFdOewFuoNrLno5C7" name="Page-1">
     <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="TM5iR6sep-qzJjjhXm-r-10" value="Получить информацию о&amp;nbsp; преподвателе" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-11" value="Получить информацию о предмете" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="TM5iR6sep-qzJjjhXm-r-11" value="Получить информацию об учебном предмете" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="-110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TM5iR6sep-qzJjjhXm-r-12" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;" parent="1" target="TM5iR6sep-qzJjjhXm-r-4" edge="1">
@@ -50,16 +50,6 @@
             <mxPoint x="377.57359312880703" y="98.2842712474619" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-17" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0;exitY=1;exitDx=0;exitDy=0;rounded=1;" parent="1" source="TM5iR6sep-qzJjjhXm-r-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="330" as="sourcePoint" />
-            <mxPoint x="210" y="390" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-18" value="Отправка сообщения об изменении в расписании" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="130" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="TM5iR6sep-qzJjjhXm-r-32" value="&lt;font face=&quot;Helvetica&quot;&gt;Управление списком преподавателей&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="320" width="120" height="80" as="geometry" />
         </mxCell>
@@ -72,7 +62,7 @@
         <mxCell id="TM5iR6sep-qzJjjhXm-r-35" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Добавить ФИО&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-36" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Добавить предмет к преподавателю&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="TM5iR6sep-qzJjjhXm-r-36" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Добавить учебный предмет к преподавателю&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TM5iR6sep-qzJjjhXm-r-37" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;strokeWidth=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TM5iR6sep-qzJjjhXm-r-35" target="rDwhiOrbKTiJnj6Wi6EF-16" edge="1">
@@ -93,13 +83,13 @@
         <mxCell id="TM5iR6sep-qzJjjhXm-r-40" value="&lt;h3&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;&quot;extend&quot;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="275" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-41" value="Управление списком предметов" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="TM5iR6sep-qzJjjhXm-r-41" value="Управление списком учебных предметов" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TM5iR6sep-qzJjjhXm-r-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;dashed=1;" parent="1" source="TM5iR6sep-qzJjjhXm-r-44" target="TM5iR6sep-qzJjjhXm-r-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-44" value="Добавление предмета в список" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="TM5iR6sep-qzJjjhXm-r-44" value="Добавление учебного предмета в список" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TM5iR6sep-qzJjjhXm-r-46" value="&lt;h3&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;&quot;extend&quot;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;strokeWidth=1;" parent="1" vertex="1">
@@ -120,10 +110,10 @@
         <mxCell id="TM5iR6sep-qzJjjhXm-r-57" value="&lt;h3&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;&quot;extend&quot;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="370" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-62" value="Редактировать список предметов" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="TM5iR6sep-qzJjjhXm-r-62" value="Редактировать список учебных предметов" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-64" value="Удаление предмета из списка" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="TM5iR6sep-qzJjjhXm-r-64" value="Удаление учебного предмета из списка" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TM5iR6sep-qzJjjhXm-r-66" value="&lt;h3&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;&quot;extend&quot;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;strokeWidth=1;" parent="1" vertex="1">
@@ -162,7 +152,7 @@
         <mxCell id="rDwhiOrbKTiJnj6Wi6EF-19" value="&lt;h3&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;&quot;extend&quot;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="245" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rDwhiOrbKTiJnj6Wi6EF-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Удалить предмет в списке у&amp;nbsp; преподавателя&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="rDwhiOrbKTiJnj6Wi6EF-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Удалить учебный предмет в списке у&amp;nbsp; преподавателя&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="215" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rDwhiOrbKTiJnj6Wi6EF-22" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Изменить ФИО&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
@@ -204,7 +194,7 @@
             <mxPoint x="450" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDwhiOrbKTiJnj6Wi6EF-35" value="Добавить наименование предмета" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="rDwhiOrbKTiJnj6Wi6EF-35" value="Добавить наименование учебного предмета" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="537" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rDwhiOrbKTiJnj6Wi6EF-36" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rDwhiOrbKTiJnj6Wi6EF-35" target="TM5iR6sep-qzJjjhXm-r-44" edge="1">
@@ -225,7 +215,7 @@
         <mxCell id="TM5iR6sep-qzJjjhXm-r-21" value="Выбрать преподавателя из списка&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%2260%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphMod&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TM5iR6sep-qzJjjhXm-r-22" value="Выбрать предмет из списка&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%2260%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModиз&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="TM5iR6sep-qzJjjhXm-r-22" value="Выбрать учебный предмет из списка&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%2260%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModиз&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TM5iR6sep-qzJjjhXm-r-47" value="Управление расписанием &lt;br&gt;школы" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" parent="1" vertex="1">
@@ -315,7 +305,7 @@
         <mxCell id="rDwhiOrbKTiJnj6Wi6EF-46" value="Изменить запись о преподавателе" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="1021" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rDwhiOrbKTiJnj6Wi6EF-47" value="Изменить запись о предмете&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%2260%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphMod&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="rDwhiOrbKTiJnj6Wi6EF-47" value="Изменить запись об учебном предмете&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%2260%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphMod&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="956" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rDwhiOrbKTiJnj6Wi6EF-49" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;endFill=0;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rDwhiOrbKTiJnj6Wi6EF-39" target="TM5iR6sep-qzJjjhXm-r-50" edge="1">
@@ -363,13 +353,13 @@
         <mxCell id="rDwhiOrbKTiJnj6Wi6EF-63" value="&quot;extend&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="477" y="40" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lujfs2TIFPHwMjRKtw3Z-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="TM5iR6sep-qzJjjhXm-r-54" target="TM5iR6sep-qzJjjhXm-r-32">
+        <mxCell id="Lujfs2TIFPHwMjRKtw3Z-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="TM5iR6sep-qzJjjhXm-r-54" target="TM5iR6sep-qzJjjhXm-r-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="410" as="sourcePoint" />
             <mxPoint x="670" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lujfs2TIFPHwMjRKtw3Z-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.967;exitY=0.275;exitDx=0;exitDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="TM5iR6sep-qzJjjhXm-r-41" target="TM5iR6sep-qzJjjhXm-r-62">
+        <mxCell id="Lujfs2TIFPHwMjRKtw3Z-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.967;exitY=0.275;exitDx=0;exitDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" parent="1" source="TM5iR6sep-qzJjjhXm-r-41" target="TM5iR6sep-qzJjjhXm-r-62" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="490" as="sourcePoint" />
             <mxPoint x="620" y="540" as="targetPoint" />
